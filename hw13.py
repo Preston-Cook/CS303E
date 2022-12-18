@@ -73,4 +73,5 @@ def draw_star(x, y):
     ttl.end_fill()
     ttl.penup()
  
-main()
+if __name__ == '__main__':
+    main()
